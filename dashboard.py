@@ -1114,8 +1114,7 @@ with tab4:
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #7f8c8d; font-size: 0.85rem; padding: 1.5rem;'>"
-    " <b>Sumber Data: Bank Indonesia & BPS | "
-    "© 2025 Dashboard Inflasi Indonesia"
+    "  Sumber Data: FRED & BPS | © 2025 Dashboard Inflasi Indonesia"
     "</div>",
     unsafe_allow_html=True
 )
