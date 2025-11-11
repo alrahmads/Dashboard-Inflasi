@@ -1045,7 +1045,7 @@ with tab4:
         col_data1, col_data2 = st.columns([2, 1])
         
         with col_data1:
-            st.markdown('<div class="section-header"><h3>DATA TIME SERIES TERBARU</h3></div>', unsafe_allow_html=True)
+            st.markdown('<div class="section-header"><h3>DATA TIME SERIES</h3></div>', unsafe_allow_html=True)
             st.markdown('<div class="content-section">', unsafe_allow_html=True)
             
             # Show data
@@ -1115,7 +1115,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #7f8c8d; font-size: 0.85rem; padding: 1.5rem;'>"
     " <b>Dashboard Inflasi Indonesia</b> | Sumber Data: Bank Indonesia & BPS | "
-    "© 2024 Dashboard Inflasi Indonesia"
+    "© 2025 Dashboard Inflasi Indonesia"
     "</div>",
     unsafe_allow_html=True
 )
