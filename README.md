@@ -144,6 +144,7 @@ dashboard-inflasi-indonesia/
 - MAE: 0.2531
 - RMSE: 0.3144
 - R²: 0.9423 (model menjelaskan 94.23% variansi inflasi)
+  
 **Dikembangkan untuk Workshop Analitika Data Terapan** ✨
 
 *Terakhir diupdate: November 2025*
