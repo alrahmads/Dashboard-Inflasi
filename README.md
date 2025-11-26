@@ -146,4 +146,4 @@ dashboard-inflasi-indonesia/
 - R²: 0.9423 (model menjelaskan 94.23% variansi inflasi)
 **Dikembangkan untuk Workshop Analitika Data Terapan** ✨
 
-*Terakhir diupdate: Desember 2024*
+*Terakhir diupdate: November 2025*
