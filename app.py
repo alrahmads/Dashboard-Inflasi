@@ -297,7 +297,7 @@ st.markdown("""
 # ==================== LOAD DATA ====================
 @st.cache_data
 def load_data():
-    with open('Data_inflasi_JSON.json', 'r') as f:
+    with open('Data_inflasi.json', 'r') as f:
         data = json.load(f)
     df = pd.DataFrame(data)
     df['date'] = pd.to_datetime(df['date'])
