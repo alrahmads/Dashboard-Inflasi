@@ -311,7 +311,7 @@ def load_data():
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("⚠ File 'Data_inflasi_JSON.json' tidak ditemukan! Pastikan file berada di direktori yang sama.")
+    st.error("⚠ File 'Data_inflasi.json' tidak ditemukan! Pastikan file berada di direktori yang sama.")
     st.stop()
 
 # ==================== HEADER SECTION ====================
